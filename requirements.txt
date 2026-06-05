@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn==1.7.2
+xgboost
+joblib
+opencv-python
+torch
+torchvision
+ultralytics
+gradio
+Pillow
+scipy
